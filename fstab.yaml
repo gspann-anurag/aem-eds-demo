@@ -1,5 +1,4 @@
 mountpoints:
-  /:
-    url: "https://author-p24152-e1275188.adobeaemcloud.com/bin/franklin.delivery/gspann-anurag/aem-eds-demo/main"
+  /: https://main--aem-eds-demo--gspann-anurag.aem.page/content/aem-eds-demo/
     type: "markup"
     suffix: ".html"
